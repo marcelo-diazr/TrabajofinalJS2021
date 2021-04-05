@@ -1,2 +1,31 @@
-# TrabajofinalJS2021
-Trabajo final Javascript Master  2021 -Escalab
+# Proyecto Final Curso Javascript Master
+
+_Proyecto basado en los resultados de la Champions League 2020-2021_
+
+## Comenzando 🚀
+
+_Descargar proyecto._
+```
+git clone 
+```
+_Instalar modulos._
+```
+npm i 
+```
+_Levatar proyecto en el puerto 3000._
+```
+npm run start
+```
+## Despliegue 📦
+
+```
+npm run build
+```
+
+## Construido con 🛠️
+* [material-ui](https://github.com/mui-org/material-ui) - Usado para generar las Tablas y menu
+
+## Autor ✒️
+
+* **Marcelo Díaz Riveros** - *Trabajo Inicial* - [marcelo-diazr](https://github.com/marcelo-diazr)
+
