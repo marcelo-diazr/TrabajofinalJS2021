@@ -6,7 +6,7 @@ _Proyecto basado en los resultados de la Champions League 2020-2021_
 
 _Descargar proyecto._
 ```
-git clone 
+git clone https://github.com/marcelo-diazr/TrabajofinalJS2021.git
 ```
 _Instalar modulos._
 ```
