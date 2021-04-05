@@ -43,7 +43,7 @@ export default class TeamsSearsh extends React.Component {
             localStorage.setItem('points', filtername.points)
 
 
-            setTimeout(alert("Your Search Was Saved"), 6000)
+            setTimeout(alert("Tu Busqueda ha sido guardada"), 6000)
         });
     }
     componentWillReceiveProps(nextProps) {
